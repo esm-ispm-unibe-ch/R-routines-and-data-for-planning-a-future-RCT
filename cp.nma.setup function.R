@@ -1,5 +1,5 @@
 
-test=function(){print("labla")}
+testtest=function(){print("labla")}
 cp.nma.setup<-function(data,level,type,effsize){
   
   DataInput<-function(data,level,type,effsize){
